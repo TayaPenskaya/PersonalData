@@ -5,3 +5,4 @@
 - graphs
   - [info](https://www.ieltsjacky.com/ielts-line-graph.html)
   - [notes](./notes/graphs.md)
+  - [examples](./examples/graphs)
