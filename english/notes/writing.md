@@ -11,5 +11,5 @@
 
 ## Phrases
 
-![](./data/writing/phrases_0.jpg)
-![](./data/writing/phrases_1.jpg)
+![](./data/writing/phrases_0.png)
+![](./data/writing/phrases_1.png)
