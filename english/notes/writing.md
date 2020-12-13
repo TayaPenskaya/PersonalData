@@ -7,7 +7,6 @@
 ![](./data/writing/intro_2.jpg)
 ![](./data/writing/intro_3.jpg)
 ![](./data/writing/intro_4.jpg)
-![](./data/writing/intro_5.jpg)
 
 ## Phrases
 
